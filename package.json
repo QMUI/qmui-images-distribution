@@ -1,6 +1,6 @@
 {
   "name": "qmui-images-distribution",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "适用于 QMUI 图片管理方式的辅助工具，自动把 sketch 导出的切片按 QMUI 要求改名并分发到各个目录",
   "main": "gulpfile.js",
   "scripts": {
