@@ -1,0 +1,3 @@
+node_modules
+source/*.*
+.DS_Store
